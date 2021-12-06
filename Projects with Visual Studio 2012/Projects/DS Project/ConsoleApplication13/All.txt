@@ -1,0 +1,7 @@
+1	toyota		corolla		black		200000		7
+2	diawo		lanos		red		100000		8
+3	chevorlite		cruze		blue		150000		10
+4	iphone		5s		silver		2500		10
+5	samsung		s5		white		1500		10
+6	HP		E210		red		777		10
+7	HP		E210		white		800		10

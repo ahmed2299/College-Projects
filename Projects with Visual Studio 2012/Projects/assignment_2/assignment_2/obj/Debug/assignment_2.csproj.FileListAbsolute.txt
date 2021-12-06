@@ -1,0 +1,6 @@
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\assignment_2\assignment_2\bin\Debug\assignment_2.exe.config
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\assignment_2\assignment_2\bin\Debug\assignment_2.exe
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\assignment_2\assignment_2\bin\Debug\assignment_2.pdb
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\assignment_2\assignment_2\obj\Debug\assignment_2.exe
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\assignment_2\assignment_2\obj\Debug\assignment_2.pdb
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\assignment_2\assignment_2\obj\Debug\assignment_2.csprojResolveAssemblyReference.cache

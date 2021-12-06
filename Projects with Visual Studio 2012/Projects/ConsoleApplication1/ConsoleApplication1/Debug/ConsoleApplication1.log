@@ -1,0 +1,16 @@
+﻿Build started 11/14/2018 10:24:59 AM.
+     1>Project "C:\Users\lenovo pc\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt linkedlist.cpp Source.cpp
+         Source.cpp
+         linkedlist.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo pc\documents\visual studio 2012\Projects\ConsoleApplication1\Debug\assignment ds.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lenovo pc\documents\visual studio 2012\Projects\ConsoleApplication1\Debug\assignment ds.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo pc\documents\visual studio 2012\Projects\ConsoleApplication1\Debug\assignment ds.lib" /MACHINE:X86 Debug\linkedlist.obj
+         Debug\Source.obj
+         ConsoleApplication1.vcxproj -> C:\Users\lenovo pc\documents\visual studio 2012\Projects\ConsoleApplication1\Debug\assignment ds.exe
+     1>Done Building Project "C:\Users\lenovo pc\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.88

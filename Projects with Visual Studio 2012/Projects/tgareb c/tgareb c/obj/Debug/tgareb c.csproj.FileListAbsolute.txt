@@ -1,0 +1,9 @@
+c:\users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\bin\Debug\tgareb c.exe.config
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\bin\Debug\tgareb c.exe
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\bin\Debug\tgareb c.pdb
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\obj\Debug\tgareb c.csprojResolveAssemblyReference.cache
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\obj\Debug\tgareb_c.Form1.resources
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\obj\Debug\tgareb_c.Properties.Resources.resources
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\obj\Debug\tgareb c.csproj.GenerateResource.Cache
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\obj\Debug\tgareb c.exe
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\tgareb c\tgareb c\obj\Debug\tgareb c.pdb

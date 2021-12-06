@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/team_name_api"
+        android:layout_width="155dp"
+        android:layout_height="25dp"
+        android:text="Team"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/played_games_api"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:text="PG"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/team_name_api"
+        app:layout_constraintStart_toEndOf="@+id/team_name_api" />
+
+    <TextView
+        android:id="@+id/won_api"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text="W"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/played_games_api"
+        app:layout_constraintStart_toEndOf="@+id/played_games_api" />
+
+    <TextView
+        android:id="@+id/draw_api"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text="D"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/won_api"
+        app:layout_constraintStart_toEndOf="@+id/won_api" />
+
+    <TextView
+        android:id="@+id/lost_api"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text="L"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/draw_api"
+        app:layout_constraintStart_toEndOf="@+id/draw_api" />
+
+    <TextView
+        android:id="@+id/points_api"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text="P"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/lost_api"
+        app:layout_constraintStart_toEndOf="@+id/lost_api" />
+
+    <TextView
+        android:id="@+id/goals_for_api"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text="+"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/points_api"
+        app:layout_constraintStart_toEndOf="@+id/points_api" />
+
+    <TextView
+        android:id="@+id/goals_against_api"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text="-"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/goals_for_api"
+        app:layout_constraintStart_toEndOf="@+id/goals_for_api" />
+
+    <TextView
+        android:id="@+id/goal_difference_api"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text="+/-"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/goals_against_api"
+        app:layout_constraintHorizontal_bias="0.169"
+        app:layout_constraintStart_toEndOf="@+id/goals_against_api"
+        app:layout_constraintEnd_toEndOf="parent"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

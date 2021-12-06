@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D6F5FB22-21AC-43DB-9F00-1B7EBAEC868D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication6</RootNamespace>
+    <AssemblyName>WindowsFormsApplication6</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add emplyee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add emplyee.Designer.cs">
+      <DependentUpon>Add emplyee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add Flat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Flat.Designer.cs">
+      <DependentUpon>Add Flat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add.Designer.cs">
+      <DependentUpon>Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin page.Designer.cs">
+      <DependentUpon>Admin page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buy flat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buy flat.Designer.cs">
+      <DependentUpon>Buy flat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="client functionalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="client functionalities.Designer.cs">
+      <DependentUpon>client functionalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="client login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="client login.Designer.cs">
+      <DependentUpon>client login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="client.Designer.cs">
+      <DependentUpon>client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit data about flat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit data about flat.Designer.cs">
+      <DependentUpon>Edit data about flat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee login.Designer.cs">
+      <DependentUpon>Employee login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees Functionalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees Functionalities.Designer.cs">
+      <DependentUpon>Employees Functionalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Flat requirment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Flat requirment.Designer.cs">
+      <DependentUpon>Flat requirment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Give Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Give Feedback.Designer.cs">
+      <DependentUpon>Give Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reervation appoitment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reervation appoitment.Designer.cs">
+      <DependentUpon>Reervation appoitment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Remove employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remove employee.Designer.cs">
+      <DependentUpon>Remove employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="remove flat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="remove flat.Designer.cs">
+      <DependentUpon>remove flat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search For Flat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search For Flat.Designer.cs">
+      <DependentUpon>Search For Flat.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add emplyee.resx">
+      <DependentUpon>Add emplyee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add Flat.resx">
+      <DependentUpon>Add Flat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add.resx">
+      <DependentUpon>Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin page.resx">
+      <DependentUpon>Admin page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buy flat.resx">
+      <DependentUpon>Buy flat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client functionalities.resx">
+      <DependentUpon>client functionalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client login.resx">
+      <DependentUpon>client login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit data about flat.resx">
+      <DependentUpon>Edit data about flat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee login.resx">
+      <DependentUpon>Employee login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees Functionalities.resx">
+      <DependentUpon>Employees Functionalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flat requirment.resx">
+      <DependentUpon>Flat requirment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Give Feedback.resx">
+      <DependentUpon>Give Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reervation appoitment.resx">
+      <DependentUpon>Reervation appoitment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remove employee.resx">
+      <DependentUpon>Remove employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="remove flat.resx">
+      <DependentUpon>remove flat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search For Flat.resx">
+      <DependentUpon>Search For Flat.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

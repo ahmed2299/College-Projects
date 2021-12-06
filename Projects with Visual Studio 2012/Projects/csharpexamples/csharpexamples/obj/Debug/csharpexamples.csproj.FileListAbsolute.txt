@@ -1,0 +1,5 @@
+c:\users\lenovo pc\documents\visual studio 2012\Projects\csharpexamples\csharpexamples\bin\Debug\csharpexamples.exe.config
+c:\users\lenovo pc\documents\visual studio 2012\Projects\csharpexamples\csharpexamples\bin\Debug\csharpexamples.exe
+c:\users\lenovo pc\documents\visual studio 2012\Projects\csharpexamples\csharpexamples\bin\Debug\csharpexamples.pdb
+c:\users\lenovo pc\documents\visual studio 2012\Projects\csharpexamples\csharpexamples\obj\Debug\csharpexamples.exe
+c:\users\lenovo pc\documents\visual studio 2012\Projects\csharpexamples\csharpexamples\obj\Debug\csharpexamples.pdb

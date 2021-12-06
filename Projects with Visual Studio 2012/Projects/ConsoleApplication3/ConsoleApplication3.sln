@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.javaproj", "{79CDB55D-9108-4CDD-85A4-F28B1E6F6C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79CDB55D-9108-4CDD-85A4-F28B1E6F6C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CDB55D-9108-4CDD-85A4-F28B1E6F6C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CDB55D-9108-4CDD-85A4-F28B1E6F6C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CDB55D-9108-4CDD-85A4-F28B1E6F6C49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table name="Products">
+  <Product>
+    <Id>1</Id>
+    <Name>a</Name>
+    <Gender>male</Gender>
+    <Department>is</Department>
+    <Projects>
+      <Project>project2</Project>
+      <Project>project3</Project>
+    </Projects>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>m</Name>
+    <Gender>female</Gender>
+    <Department>it</Department>
+    <Projects>
+      <Project>project2</Project>
+      <Project>project3</Project>
+    </Projects>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>hossam</Name>
+    <Gender>male</Gender>
+    <Department>is</Department>
+    <Projects>
+      <Project>project3</Project>
+      <Project>project4</Project>
+    </Projects>
+  </Product>
+</table>

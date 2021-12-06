@@ -1,0 +1,18 @@
+C:\Users\Dell\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dell\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dell\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dell\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\mscorlib.dll
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\normidna.nlp
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\normnfc.nlp
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\normnfd.nlp
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\normnfkc.nlp
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\normnfkd.nlp
+C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\task1.csprojResolveAssemblyReference.cache

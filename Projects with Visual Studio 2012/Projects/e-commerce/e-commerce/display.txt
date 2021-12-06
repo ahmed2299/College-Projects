@@ -1,0 +1,8 @@
+laptop
+sony
+red
+1500
+laptop
+lenovo
+blue
+5000

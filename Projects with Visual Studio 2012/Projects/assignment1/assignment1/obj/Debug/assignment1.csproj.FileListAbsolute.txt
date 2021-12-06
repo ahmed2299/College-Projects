@@ -1,0 +1,6 @@
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\assignment1\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache

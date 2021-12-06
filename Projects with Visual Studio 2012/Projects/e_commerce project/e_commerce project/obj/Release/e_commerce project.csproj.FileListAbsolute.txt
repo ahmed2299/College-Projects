@@ -1,0 +1,13 @@
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\bin\Release\e_commerce project.exe.config
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\bin\Release\e_commerce project.exe
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\bin\Release\e_commerce project.pdb
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce project.csprojResolveAssemblyReference.cache
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce_project.Admin.resources
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce_project.Display_Brand.resources
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce_project.Login_page.resources
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce_project.New_Brand.resources
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce_project.New_Item.resources
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce_project.Properties.Resources.resources
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce project.csproj.GenerateResource.Cache
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce project.exe
+C:\Users\lenovo pc\documents\visual studio 2012\Projects\e_commerce project\e_commerce project\obj\Release\e_commerce project.pdb

@@ -1,0 +1,11 @@
+﻿Build started 4/10/2018 12:23:11 AM.
+     1>Project "C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\Project2\Debug\Project2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\Project2\Debug\Project2.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.6.AssemblyAttributes.obj"
+     1>LINK : fatal error LNK1561: entry point must be defined
+     1>Done Building Project "C:\Users\lenovo pc\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.79

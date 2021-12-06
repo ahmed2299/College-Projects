@@ -1,0 +1,29 @@
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\bin\Debug\archi_Template.exe.config
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\bin\Debug\archi_Template.exe
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\bin\Debug\archi_Template.pdb
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.csprojAssemblyReference.cache
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.Form1.resources
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.Properties.Resources.resources
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.csproj.GenerateResource.cache
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.csproj.CoreCompileInputs.cache
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.exe
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.pdb
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\bin\Debug\archi_Template.exe.config
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\bin\Debug\archi_Template.exe
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\bin\Debug\archi_Template.pdb
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\obj\Debug\archi_Template.csprojAssemblyReference.cache
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\obj\Debug\archi_Template.Form1.resources
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\obj\Debug\archi_Template.Properties.Resources.resources
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\obj\Debug\archi_Template.csproj.GenerateResource.cache
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\obj\Debug\archi_Template.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\obj\Debug\archi_Template.exe
+C:\Users\user\Desktop\research\archi\archi_Template\archi_Template\obj\Debug\archi_Template.pdb
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\bin\Debug\archi_Template.exe.config
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\bin\Debug\archi_Template.exe
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\bin\Debug\archi_Template.pdb
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\obj\Debug\archi_Template.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\obj\Debug\archi_Template.Form1.resources
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\obj\Debug\archi_Template.Properties.Resources.resources
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\obj\Debug\archi_Template.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\obj\Debug\archi_Template.exe
+C:\Users\ahmed\Desktop\archi hh\archi_Template\archi_Template\obj\Debug\archi_Template.pdb

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FootBaller</string>
+    <string name="todo">TODO</string>
+    <string name="no_logo_team">https://en.m.wikipedia.org/wiki/Atlabara_FC?#/media/File%3AAtlabara_FC_(logo).png</string>
+    <string name="api_address">http://api.football-data.org/v2/</string>
+    <string name="api_address2">https://api-football-v1.p.rapidapi.com/v2/</string>
+    <string name="api_post">https://jsonplaceholder.typicode.com/</string>
+    <string name="connection_failed">please check your internet connection</string>
+</resources>

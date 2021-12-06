@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Hotel_managment_system">
+  <ClassDiagramComponents>
+    <Class name="Hotel_managment_system" package="hotel_managment_system" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="String[]" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Manager" package="" visibility="public" xPosition="552.0" yPosition="41.0">
+      <Fields>
+        <Field name="id" type="int" visibility="private"/>
+        <Field name="name" type="string" visibility="private"/>
+        <Field name="salary" type="int" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="addEmp" returnType="void" visibility="public"/>
+        <Method name="deleteEmp" returnType="void" visibility="public"/>
+        <Method name="editEmpData" returnType="void" visibility="public"/>
+        <Method name="viewEmpData" returnType="void" visibility="public"/>
+        <Method name="viewResidentsData" returnType="void" visibility="public"/>
+        <Method name="getIncomeData" returnType="int" visibility="public"/>
+        <Method name="roomStatus" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Receptionist" package="" visibility="public" xPosition="164.0" yPosition="357.0">
+      <Fields>
+        <Field name="id" type="int" visibility="private"/>
+        <Field name="name" type="string" visibility="private"/>
+        <Field name="salary" type="int" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="addResident" returnType="void" visibility="public"/>
+        <Method name="deleteResident" returnType="void" visibility="public"/>
+        <Method name="editResidentData" returnType="void" visibility="public"/>
+        <Method name="assignPersonToRoomBasedOnAvailabilty" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
